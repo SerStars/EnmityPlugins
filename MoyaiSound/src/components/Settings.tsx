@@ -47,7 +47,7 @@ export default function Settings({ settings }: SettingsProps) {
 			/>
 		</FormSection>
 		<Video
-			source={{ uri: "https://github.com/SerStars/MoyaiSound/raw/main/src/boom.mp4" }}
+			source={{ uri: "https://github.com/SerStars/EnmityPlugins/raw/README/MoyaiSound/src/boom.mp4" }}
 			audioOnly={true}
 			paused={paused}
 			repeat={true}

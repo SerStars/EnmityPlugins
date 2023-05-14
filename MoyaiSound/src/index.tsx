@@ -102,7 +102,7 @@ const Moyai: Plugin = {
                return <>
                   {orig.apply(self, args)}
                   <Video ref={(ref) => { vid = ref }}
-                     source={{ uri: "https://github.com/FierysDiscordAddons/Moyai/raw/main/src/boom.mp4" }}
+                     source={{ uri: "https://github.com/SerStars/EnmityPlugins/raw/README/MoyaiSound/src/boom.mp4" }}
                      audioOnly={true}
                      paused={paused}
                      volume={Number(get(Manifest.name, "volume"))} />
