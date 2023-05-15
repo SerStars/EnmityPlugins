@@ -1,3 +1,1 @@
-# EnmityPlugins
-
-These are the plugins many people requested, those plugins are save, i do not manage IPAs (i even dk lol or anything else)
+im lazy to change everything in the files again, other Enmity Plugins on my profileeeee
